@@ -2,7 +2,7 @@
 Tarea No. 3 Personal Software Process for Engineers Program 2
 Ian Sarasty Medina
 03/05/17
-Ejecute el programa desde el directorio src utilizando el comando: 
+Ejecute el programa desde el directorio PSP3Regression(aquí se encuentra la carpeta src) utilizando el comando: 
 
 java -cp target/PSP3Regression-1.0-SNAPSHOT.jar co.ism.controller.RegressionApp 
 
