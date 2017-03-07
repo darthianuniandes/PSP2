@@ -24,3 +24,8 @@ En el archivo “numeros.txt” se ve un ejemplo de como se debe ingresar la inf
 Si se agrega texto que no tenga que ver o letras el sistema no tendrá en cuenta estos valores.
 Si las listas solo tienen ceros se mostraran valores indeterminados en los resultados.
 Si se especifica una ruta invalida el sistema mostrara un mensaje de error.
+
+GIT REPOSITORY: 
+
+git@github.com:darthianuniandes/PSP2.git
+https://github.com/darthianuniandes/PSP2.git
